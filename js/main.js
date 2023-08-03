@@ -103,4 +103,5 @@ setInterval(()=> {
     }else if (!jump && run){
         drawRun();
     }
+
 } , (1000/20));
